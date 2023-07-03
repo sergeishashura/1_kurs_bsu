@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -o CMakeFiles/fuckniggers.dir/main.cpp.o -c \"/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/main.cpp\"",
+  "file": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/main.cpp",
+  "output": "CMakeFiles/fuckniggers.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -o CMakeFiles/fuckniggers.dir/sum.cpp.o -c \"/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/sum.cpp\"",
+  "file": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/sum.cpp",
+  "output": "CMakeFiles/fuckniggers.dir/sum.cpp.o"
+},
+{
+  "directory": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -o CMakeFiles/fuckniggers.dir/sum2.cpp.o -c \"/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/sum2.cpp\"",
+  "file": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/sum2.cpp",
+  "output": "CMakeFiles/fuckniggers.dir/sum2.cpp.o"
+},
+{
+  "directory": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -o CMakeFiles/fuckniggers.dir/hui.cpp.o -c \"/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/hui.cpp\"",
+  "file": "/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/hui.cpp",
+  "output": "CMakeFiles/fuckniggers.dir/hui.cpp.o"
+}
+]

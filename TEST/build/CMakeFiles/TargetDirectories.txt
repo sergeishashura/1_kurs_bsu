@@ -1,0 +1,6 @@
+/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build/CMakeFiles/fuckniggers.dir
+/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build/CMakeFiles/package.dir
+/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build/CMakeFiles/package_source.dir
+/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build/CMakeFiles/test.dir
+/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build/CMakeFiles/edit_cache.dir
+/Users/sergejsasura/Desktop/учеба/2 сем/ОП/ООП/TEST/build/CMakeFiles/rebuild_cache.dir

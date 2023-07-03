@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/fuckniggers.dir/main.cpp.o CMakeFiles/fuckniggers.dir/sum.cpp.o CMakeFiles/fuckniggers.dir/sum2.cpp.o CMakeFiles/fuckniggers.dir/hui.cpp.o -o fuckniggers 
